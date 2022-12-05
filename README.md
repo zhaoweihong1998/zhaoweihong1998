@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-[![weihzhao's GitHub stats](https://github-readme-stats.vercel.app/api?username=这里替换成你的 GitHub ID&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![weihzhao's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhaoweihong1998&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 zhaoweihong1998/zhaoweihong1998 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
