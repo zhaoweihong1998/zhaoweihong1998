@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zhaoweihong1998
 - 👀 I’m interested in Graphics and HPC
-- 🌱 I’m currently learning Gemometry Processing
+- 🌱 I’m currently learning Geometry Processing
 - 📫 E-mail zhaoweihong1998@outlook.com
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhaoweihong1998&layout=compact&theme=radical)
