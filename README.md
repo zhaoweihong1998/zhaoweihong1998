@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @zhaoweihong1998
 - 👀 I’m interested in Graphics and HPC
 - 🌱 I’m currently learning Gemometry Processing
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me zhaoweihong1998@outlook.com
 
 [![weihzhao's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhaoweihong1998&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
