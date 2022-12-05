@@ -4,7 +4,9 @@
 - 📫 E-mail zhaoweihong1998@outlook.com
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhaoweihong1998&layout=compact&theme=radical)
-![zhaoweihong1998's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhaoweihong1998&count_private=true&show_icons=true&theme=radical&layout=compact)
+
+
+![zhaoweihong1998's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhaoweihong1998&count_private=true&show_icons=true&theme=radical)
 
 <!---
 zhaoweihong1998/zhaoweihong1998 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
