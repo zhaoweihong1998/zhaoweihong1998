@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Weihong
-- 👀 My interest is in in High Performance Computation and Computer Graphics.
-- 🌱 I am currently a graphics engineer at Cadence and am learning about CFD. 
+- 👋 Hi, I’m Weihong.
+- 👀 My interest is in High Performance Computation and Computer Graphics. I have done some researches on BIM and participated in the development of CAD system and GPU graphics driver.
+- 🌱 I am currently a graphics engineer at Cadence and I am learning about CFD. 
 - 📫 E-mail weihzhao@outlook.com
