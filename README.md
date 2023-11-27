@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Weihong.
-- 👀 My interest is in the field of high performance computation and computer graphics. I have worked as R&D intern for delveloping 3D design system and GPU graphics driver.
+- 👀 I explore the bit world from gate circuit to nerual network and my main interest is in high performance computation and computer graphics. I have worked as R&D intern to develop 3D design system and GPU graphics driver.
 - 🌱 I am currently a graphics engineer at Cadence and I am learning about CFD. 
 - 📫 E-mail weihzhao@outlook.com
 - 🍻 Cheers
